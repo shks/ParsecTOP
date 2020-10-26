@@ -1,6 +1,8 @@
 # ParsecTOP
 Parsec texture streaming client operator for TouchDesigner. Build with CPulsPuls Operator. Based on [parsec-cloud/parsec-sdk](https://github.com/parsec-cloud/parsec-sdk).
 
+> tested in TouchDesigner 2020.26630
+
 ## Setting up Parsec
 
 You need a Parsec account. Go [https://parsecgaming.com/](https://parsecgaming.com/) to create an acount and download Parsec App. 
