@@ -7,11 +7,11 @@ Parsec texture streaming client operator for TouchDesigner. Build with CPulsPuls
 
 You need a Parsec account. Go [https://parsecgaming.com/](https://parsecgaming.com/) to create an acount and download Parsec App. 
 
-> Note that only [Windows 10 with some hardware requirements](https://support.parsecgaming.com/hc/en-us/articles/115002699192-Hardware-Requirements-For-Hosting-A-Gaming-Session-On-Parsec) can be the host (the source computer of steaming texture).
+> Note that only [Windows 10 with some hardware requirements](https://support.parsecgaming.com/hc/en-us/articles/115002699192-Hardware-Requirements-For-Hosting-A-Gaming-Session-On-Parsec) can be the host (the source computer of streaming texture).
 
 ## login to Parsec API to get session_id
 
-A sessionID and PeerIDs are required to establish Parsec steam session. To get those IDs, use personal_api_parsec-sdk/login.py. For the detail, please refer [this](https://github.com/parsec-cloud/parsec-sdk/tree/master/api/personal). 
+A sessionID and PeerIDs are required to establish Parsec stream session. To get those IDs, use personal_api_parsec-sdk/login.py. For the detail, please refer [this](https://github.com/parsec-cloud/parsec-sdk/tree/master/api/personal). 
 
 > Note that in the original [sdk script](https://github.com/parsec-cloud/parsec-sdk/tree/master/api/personal), API_HOST URL was not updated, and I modified the HOST as '[https://kessel-api.parsecgaming.com/](https://kessel-api.parsecgaming.com/)'.
 
