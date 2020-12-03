@@ -42,14 +42,4 @@ COMPUTER2            host_peer_idYYYYYYYYYYYYYY
 Then, now you have 2 ids( `session_id` and `host_peer_id`) which you will use in ParsecTOP in TouchDesigner.
 
 ## ParsecTOP in TouchDesigner
-
-Open `parsecTOP_client_test.toe` and you will see the parsectop (CPulsPuls Operator). Open the parameter window and input your session_id and host_peer_idm then hit `Reset` button. Additionally, you can also send the cursor position via Cursorx, Cursory. 
-
-( I might update clink information later soon)
-
-
-![img/ParsecTOP_sample.png](img/ParsecTOP_sample.png)
-
-## known issue
-
-TouchDesigner global framerate will be limited to the received parsec texture stream frame-rate which is automatically adjusted to the screen update of the host screen. Thus, please make sure that the screen graphics are displayed and updated in the required frame-rate such as 60Fps in the host computer. Just for example, you can run host_test_visual.toe on the host side computer.
+Now WIP. maybe soon.
