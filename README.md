@@ -43,3 +43,4 @@ Then, now you have 2 ids( `session_id` and `host_peer_id`) which you will use in
 
 ## ParsecTOP in TouchDesigner
 Now WIP. maybe soon.
+If you can read Japanese please read [here](https://qiita.com/shks/items/411cc41ae69d9551d31b) . English version of this will be soon. 
